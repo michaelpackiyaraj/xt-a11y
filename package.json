@@ -1,0 +1,25 @@
+{
+  "name": "xt-a11y",
+  "version": "1.0.0",
+  "description": "Automatted A11Y Plugin",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Packiyaraj",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelpackiyaraj/xt-a11y.git"
+  },
+  "keywords": [
+    "XT",
+    "A11Y"
+  ],
+  "bugs": {
+    "url": "https://github.com/michaelpackiyaraj/xt-a11y/issues"
+  },
+  "homepage": "https://github.com/michaelpackiyaraj/xt-a11y#readme"
+}
